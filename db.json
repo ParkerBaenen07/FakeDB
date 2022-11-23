@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "Id": 13335,
+        "Name": "Parker",
+        "Email": "Parker@charter.com",
+        "Admin": true,
+        "Reviewer": false,
+        "Viewer": false
+      },
+      {
+        "Id": 133548,
+        "Name": "Matthew",
+        "Email": "Matthew@charter.com",
+        "Admin": false,
+        "Reviewer": true,
+        "Viewer": false
+      },
+      {
+        "Id": 134487,
+        "Name": "Julia",
+        "Email": "Julia@charter.com",
+        "Admin": false,
+        "Reviewer": false,
+        "Viewer": true
+      }
+    ]
+  }
