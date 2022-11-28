@@ -30,7 +30,7 @@
       {
        "Id": 144556,
        "Name": "Luiz",
-       "Email": "Luiz@charter.com"
+       "Email": "Luiz@charter.com",
        "Admin": false,
        "Reviewer":false,
        "Viewer": false,
