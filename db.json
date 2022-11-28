@@ -26,6 +26,15 @@
         "Reviewer": false,
         "Viewer": true,
         "Designer": false
+      },
+      {
+       "Id": 144556,
+       "Name": "Luiz",
+       "Admin": false,
+       "Email": "Luiz@charter.com"
+       "Reviewer":false,
+       "Viewer": false,
+       "Designer":true
       }
     ]
   }
