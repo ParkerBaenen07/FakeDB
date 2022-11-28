@@ -6,7 +6,8 @@
         "Email": "Parker@charter.com",
         "Admin": true,
         "Reviewer": false,
-        "Viewer": false
+        "Viewer": false,
+        "Designer": false
       },
       {
         "Id": 133548,
@@ -14,7 +15,8 @@
         "Email": "Matthew@charter.com",
         "Admin": false,
         "Reviewer": true,
-        "Viewer": false
+        "Viewer": false,
+        "Designer ": false
       },
       {
         "Id": 134487,
@@ -22,7 +24,8 @@
         "Email": "Julia@charter.com",
         "Admin": false,
         "Reviewer": false,
-        "Viewer": true
+        "Viewer": true,
+        "Designer": false
       }
     ]
   }
